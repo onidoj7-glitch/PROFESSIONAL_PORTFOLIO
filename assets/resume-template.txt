@@ -1,0 +1,43 @@
+JEROME I. OÑIDO
+Resume Template — Replace the sample fields before using this document.
+
+CONTACT
+Email: onidoJ7@gmail.com
+Location: Las Piñas City
+GitHub: https://github.com/onidoj7-glitch
+LinkedIn: www.linkedin.com/in/jerome-onido-639184315
+
+CAREER OBJECTIVE
+BSIT student interested in web development and creating useful digital solutions.
+Seeking opportunities to keep learning, build practical experience, and contribute
+to website or system development projects.
+
+EDUCATION
+Bachelor of Science in Information Technology (BSIT)
+Datamex College of Saint Adeline
+
+
+TECHNICAL SKILLS
+- HTML and CSS fundamentals
+- JavaScript basics
+- C++ fundamentals
+- MySQL concepts and basic SQL practice
+- Visual Studio Code
+
+
+ACADEMIC PROJECTS
+1. Sales, Ordering and Inventory Tracking Management System
+   [Add the actual features, your role, tools used, and project status.]
+
+2. Par-ServePH
+   [Add the actual features, your role, tools used, and project status.]
+
+3. FAMCO Inventory and Sales Management System
+   [Add the actual features, your role, tools used, and project status.]
+
+CERTIFICATES AND ACHIEVEMENTS
+
+
+IMPORTANT
+This is a template, not a completed professional resume. Replace all bracketed
+fields and placeholders with accurate information before sharing it.
