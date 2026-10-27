@@ -77,9 +77,9 @@ const projectDetails = {
         title: "Student Management System",
         text: "A web-based system designed to manage student records efficiently. It allows administrators to add, edit, delete, search, and view student information. The system includes login authentication, input validation, and a MySQL database to keep student records organized and secure."
     },
-    famco: {
-        title: "FAMCO Inventory and Sales Management System",
-        text: "This academic project focuses on organizing product inventory and sales records for a baby-products business. Add the implemented modules, testing evidence, your role, and a repository or demonstration link when available."
+    techFixHub: {
+        title: "TechFix Hub",
+        text: "A responsive IT troubleshooting website with searchable hardware, software, network, and security guides, saved bookmarks, and an interactive quiz."
     }
 };
 
